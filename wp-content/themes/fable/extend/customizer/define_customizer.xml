@@ -1,0 +1,95 @@
+<customizer>
+
+	<!-- Global Settings -->
+	<section id="cus_global_settings" title="Global Settings" priority="1">
+
+		<setting id="fable_cus_display_spin" label="Display Spin" description="" type="select" default="yes">
+			<choice value="yes">Yes</choice>
+			<choice value="no">No</choice>
+		</setting>
+		
+		<setting id="fable_cus_main_layout" label="Main Layout" description="This value can be override in config of post/page" type="select" default="right_sidebar">
+			<choice value="fullwidth">No Sidebar</choice>
+			<choice value="left_sidebar">Left sidebar</choice>
+			<choice value="right_sidebar">Right Sidebar</choice>
+		</setting>
+
+		<setting id="fable_cus_version_layout" label="Width of site" description="This value can be override in config of post/page" type="select" default="wide">
+			<choice value="wide">Wide</choice>
+			<choice value="boxed">Boxed</choice>
+		</setting>
+
+		<setting id="fable_cus_global_seo_desc" label="SEO Description" description="This value will be added into the meta tag description in header. This value can be override in config of post/page" type="textarea" default="This is seo description"></setting>
+
+		<setting id="fable_cus_global_seo_key" label="SEO Keywords" description="This will be added into the meta tag keywords in header. This value can be override in config of post/page" type="textarea" default="Seo Keywords"></setting>
+
+	</section>
+
+	<!-- Header Settings -->
+	<section id="fable_cus_logo_settings" title="Logo Settings" priority="3">
+		<setting id="fable_cus_logo" label="Logo image" description="The best size: 153x54px" type="image" default="framework/customizer/images/logo.png"></setting>
+	</section>
+
+
+	<!-- Typography Settings -->
+	<section id="fable_cus_typography_settings" title="Typography Settings" priority="2">
+		
+		<setting id="fable_cus_main_color" label="Main Color" description="" type="color" default="#E67E22"></setting>
+		<setting id="fable_cus_body_font" label="Body Font" description="" type="googlefont" default="Lora"></setting>
+		<setting id="fable_cus_title_font" label="Title font" description="" type="googlefont" default="Montserrat"></setting>
+		<setting id="fable_cus_comic_font" label="Comic_font" description="" type="googlefont" default="Tangerine"></setting>
+
+		<setting id="fable_cus_button_hover_color" label="Button hover color" description="" type="color" default="#cb6912"></setting>
+
+		<setting id="fable_cus_custom_font" label="Add your font" description="Step 1: Add font-face in style.css file. &lt;br/&gt; Step 2: Insert name font here. &lt;br/&gt;  For example: font1, font2,font3" type="textarea" default="font1, font2,font3"></setting>
+
+	</section>
+
+	<!-- Header Settings -->
+	<section id="fable_cus_header_settings" title="Menu Settings" priority="3">
+		
+		<setting id="fable_cus_header_social" label="Social Text" description="" type="textarea" default=""></setting>
+
+		<setting id="fable_cus_menu_bg_color" label="Menu Background Color" description="" type="color" default=""></setting>
+		<setting id="fable_cus_menu_bg_color_opacity" label="Opacity of Background Color" description="Insert 0 to 1. Example: 0.8" type="text" default=""></setting>
+
+
+		<setting id="fable_cus_menu_bg_color_scroll" label="Menu Background Color when page scroll" description="" type="color" default=""></setting>
+		<setting id="fable_cus_menu_bg_color_scroll_opacity" label="Opacity of Menu Background Color when page scroll" description="Insert 0 to 1. Example: 0.8" type="text" default=""></setting>
+		
+
+		<setting id="fable_cus_menu_link_color" label="Menu Link Color" description="" type="color" default=""></setting>
+
+		<setting id="fable_cus_menu_link_color_hover" label="Menu Link Color when hover" description="" type="color" default=""></setting>
+
+		<setting id="fable_cus_menu_link_color_active" label="Menu Link Color when active" description="" type="color" default=""></setting>
+
+		<setting id="fable_cus_menu_link_color_scroll" label="Menu Link Color when page scroll" description="" type="color" default=""></setting>
+
+	</section>
+
+	<!-- Speacial Page -->
+	<section id="fable_cus_page_special_settings" title="Page Speacial Settings" priority="10">
+		
+		<setting id="fable_cus_show_bg_seach_page" label="Show header background for search page " description="" type="select" default="false">
+			<choice value="false">False</choice>
+			<choice value="true">True</choice>
+		</setting>
+		<setting id="fable_cus_header_bg_search" label="Background for Search page" description="" type="image" default=""></setting>
+
+		<setting id="fable_cus_show_bg_archive" label="Show header background for archive page " description="" type="select" default="false">
+			<choice value="false">False</choice>
+			<choice value="true">True</choice>
+		</setting>
+		<setting id="fable_cus_header_bg_archive" label="Background for Archive page" description="" type="image" default=""></setting>
+
+		<setting id="fable_cus_show_404_page" label="Show header background for 404 page " description="" type="select" default="false">
+			<choice value="false">False</choice>
+			<choice value="true">True</choice>
+		</setting>
+		<setting id="fable_cus_header_bg_404" label="Background for 404 page" description="" type="image" default=""></setting>
+
+	</section>
+	
+
+</customizer>

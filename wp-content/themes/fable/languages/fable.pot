@@ -1,0 +1,1185 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Fable\n"
+"POT-Creation-Date: 2016-04-20 22:31+0700\n"
+"PO-Revision-Date: 2016-04-20 22:31+0700\n"
+"Last-Translator: \n"
+"Language-Team: ovatheme <ovatheme@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x;esc_html_e;esc_html__;esc_attr_e;esc_attr__;"
+"esc_html_x;esc_attr_x\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:12
+msgid "Not Founnd"
+msgstr ""
+
+#: 404.php:31
+msgid "Error 404"
+msgstr ""
+
+#: 404.php:32
+msgid "Page not Found"
+msgstr ""
+
+#: 404.php:34
+msgid "Go to Homepage"
+msgstr ""
+
+#: comments.php:15
+msgid "0 Comment"
+msgstr ""
+
+#: comments.php:15
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:15
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:30
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:31
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:32
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:37
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:45
+msgid "Leave a reply"
+msgstr ""
+
+#: comments.php:47
+msgid "Name"
+msgstr ""
+
+#: comments.php:48
+msgid "Email"
+msgstr ""
+
+#: comments.php:49
+msgid "Website"
+msgstr ""
+
+#: comments.php:53
+msgid "Your Comment ..."
+msgstr ""
+
+#: comments.php:55
+msgid "Submit Comment"
+msgstr ""
+
+#: content/content-none.php:3
+msgid "Nothing Found"
+msgstr ""
+
+#: content/content-none.php:9
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content/content-none.php:13
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content/content-none.php:18
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: content/define_blocks_content.php:63
+msgid " 0 comment"
+msgstr ""
+
+#: content/define_blocks_content.php:64
+msgid " 1 comment"
+msgstr ""
+
+#: content/define_blocks_content.php:91
+msgid "Read more"
+msgstr ""
+
+#: content/define_blocks_content.php:197
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: extend/add_js_css.php:372 extend/add_js_css.php:373
+#: extend/add_js_css.php:374
+msgid "on"
+msgstr ""
+
+#: extend/breadcrumbs.php:14 extend/breadcrumbs.php:20
+msgid "Home"
+msgstr ""
+
+#: extend/breadcrumbs.php:16 extend/breadcrumbs.php:94
+msgid "Search results for"
+msgstr ""
+
+#: extend/breadcrumbs.php:49
+msgid "Archive by date"
+msgstr ""
+
+#: extend/breadcrumbs.php:52
+msgid "Archive by month"
+msgstr ""
+
+#: extend/breadcrumbs.php:54
+msgid "Archive by year"
+msgstr ""
+
+#: extend/breadcrumbs.php:96
+msgid "Archive by tag"
+msgstr ""
+
+#: extend/breadcrumbs.php:100
+msgid "Articles posted by"
+msgstr ""
+
+#: extend/breadcrumbs.php:102
+msgid "You got it Error 404 not Found"
+msgstr ""
+
+#: extend/metabox.php:29
+msgid "Show Page Heading"
+msgstr ""
+
+#: extend/metabox.php:39
+msgid "Show title of page"
+msgstr ""
+
+#: extend/metabox.php:40
+msgid "Allow display title of page"
+msgstr ""
+
+#: extend/metabox.php:45
+msgid "Show"
+msgstr ""
+
+#: extend/metabox.php:46
+msgid "Hide"
+msgstr ""
+
+#: extend/metabox.php:58
+msgid "Post Settings"
+msgstr ""
+
+#: extend/metabox.php:68
+msgid "Link audio or video"
+msgstr ""
+
+#: extend/metabox.php:69
+msgid "Insert link audio or video use for video/audio post-format"
+msgstr ""
+
+#: extend/metabox.php:76
+msgid "Gallery image"
+msgstr ""
+
+#: extend/metabox.php:77
+msgid "image in gallery post format"
+msgstr ""
+
+#: extend/metabox.php:88 extend/metabox.php:196
+msgid "General Settings"
+msgstr ""
+
+#: extend/metabox.php:97
+msgid "Main Layout"
+msgstr ""
+
+#: extend/metabox.php:98 extend/metabox.php:115
+msgid "This value will override value in theme customizer"
+msgstr ""
+
+#: extend/metabox.php:103 extend/metabox.php:120
+msgid "Global in customizer"
+msgstr ""
+
+#: extend/metabox.php:104
+msgid "Right Sidebar"
+msgstr ""
+
+#: extend/metabox.php:105
+msgid "Left Sidebar"
+msgstr ""
+
+#: extend/metabox.php:106
+msgid "No Sidebar"
+msgstr ""
+
+#: extend/metabox.php:114
+msgid "Width of site"
+msgstr ""
+
+#: extend/metabox.php:121
+msgid "Wide"
+msgstr ""
+
+#: extend/metabox.php:122
+msgid "Boxed"
+msgstr ""
+
+#: extend/metabox.php:129
+msgid "Show border layout"
+msgstr ""
+
+#: extend/metabox.php:134 extend/metabox.php:217 framework/framework.php:198
+msgid "No"
+msgstr ""
+
+#: extend/metabox.php:135 extend/metabox.php:218 framework/framework.php:197
+msgid "Yes"
+msgstr ""
+
+#: extend/metabox.php:143
+msgid "SEO Keywords"
+msgstr ""
+
+#: extend/metabox.php:144
+msgid ""
+"(optional). This value will override value in global seo keyword of theme "
+"customizer."
+msgstr ""
+
+#: extend/metabox.php:152
+msgid "SEO Description"
+msgstr ""
+
+#: extend/metabox.php:153
+msgid ""
+"(optional). This value will override value in global seo description of "
+"theme customizer."
+msgstr ""
+
+#: extend/metabox.php:161
+msgid "Header Settings"
+msgstr ""
+
+#: extend/metabox.php:169
+msgid "Background"
+msgstr ""
+
+#: extend/metabox.php:170
+msgid "Choose background"
+msgstr ""
+
+#: extend/metabox.php:176
+msgid "Comic text"
+msgstr ""
+
+#: extend/metabox.php:181
+msgid "Title text"
+msgstr ""
+
+#: extend/metabox.php:187 framework/metabox/example-functions.php:433
+msgid "Description"
+msgstr ""
+
+#: extend/metabox.php:205
+msgid "Price"
+msgstr ""
+
+#: extend/metabox.php:206
+msgid "Insert price"
+msgstr ""
+
+#: extend/metabox.php:212
+msgid "Daily Menu"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:399
+#: extend/plugins/class-tgm-plugin-activation.php:3029
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:400
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:635
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:828
+#: extend/plugins/class-tgm-plugin-activation.php:3438
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:935
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:935
+#: extend/plugins/class-tgm-plugin-activation.php:938
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:938
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:1116
+#: extend/plugins/class-tgm-plugin-activation.php:2828
+msgid "and"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:1881
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2167
+msgid "Required"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2170
+msgid "Recommended"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2186
+msgid "WordPress Repository"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2189
+msgid "External Source"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2192
+msgid "Pre-Packaged"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2209
+msgid "Not Installed"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2213
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2215
+msgid "Active"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2221
+msgid "Required Update not Available"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2224
+msgid "Requires Update"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2227
+msgid "Update recommended"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2235
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2371
+msgid "unknown"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2379
+msgid "Installed version:"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2387
+msgid "Minimum required version:"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2399
+msgid "Available version:"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2422
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2436
+msgid "Plugin"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2437
+msgid "Source"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2438
+msgid "Type"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2442
+msgid "Version"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2443
+msgid "Status"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2491
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2495
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2500
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2570
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2603
+msgid "Install"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2609
+msgid "Update"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2612
+msgid "Activate"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2643
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2645
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2681
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2683
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2788
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:2814
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:3028
+msgid "Plugin activation failed."
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:3362
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:3364
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:3365
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:3369
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:3370
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:3370
+#: extend/plugins/class-tgm-plugin-activation.php:3376
+msgid "Show Details"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:3370
+#: extend/plugins/class-tgm-plugin-activation.php:3376
+msgid "Hide Details"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:3371
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:3372
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:3375
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:3376
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:3377
+msgid "All installations have been completed."
+msgstr ""
+
+#: extend/plugins/class-tgm-plugin-activation.php:3378
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: extend/register_menu.php:4
+msgid "Primary Menu"
+msgstr ""
+
+#: extend/register_widget.php:6 extend/register_widget.php:8
+msgid "Main Sidebar"
+msgstr ""
+
+#: extend/register_widget.php:19
+msgid "Widget Footer 1"
+msgstr ""
+
+#: extend/register_widget.php:31
+msgid "Widget Footer 2"
+msgstr ""
+
+#: extend/register_widget.php:43
+msgid "Widget Footer 3"
+msgstr ""
+
+#: extend/register_widget.php:56
+msgid "Footer bottom left"
+msgstr ""
+
+#: extend/register_widget.php:67
+msgid "Footer bottom center"
+msgstr ""
+
+#: extend/register_widget.php:78
+msgid "Footer bottom right"
+msgstr ""
+
+#: framework/framework.php:142
+msgid "<div class=\"blog_pagination\"><ul class=\"pagination\">"
+msgstr ""
+
+#: framework/framework.php:155 framework/framework.php:168
+msgid "<li>...</li>"
+msgstr ""
+
+#: framework/framework.php:178
+msgid "</ul></div>"
+msgstr ""
+
+#: framework/framework.php:194
+msgid "User Container to wrap content"
+msgstr ""
+
+#: framework/framework.php:202
+msgid "Background pattern color "
+msgstr ""
+
+#: framework/framework.php:207
+msgid "Text Color of Row"
+msgstr ""
+
+#: framework/metabox/example-functions.php:82
+msgid "Test Metabox"
+msgstr ""
+
+#: framework/metabox/example-functions.php:93
+#: framework/metabox/example-functions.php:380
+msgid "Test Text"
+msgstr ""
+
+#: framework/metabox/example-functions.php:94
+#: framework/metabox/example-functions.php:106
+#: framework/metabox/example-functions.php:114
+#: framework/metabox/example-functions.php:122
+#: framework/metabox/example-functions.php:131
+#: framework/metabox/example-functions.php:139
+#: framework/metabox/example-functions.php:153
+#: framework/metabox/example-functions.php:160
+#: framework/metabox/example-functions.php:168
+#: framework/metabox/example-functions.php:185
+#: framework/metabox/example-functions.php:194
+#: framework/metabox/example-functions.php:202
+#: framework/metabox/example-functions.php:209
+#: framework/metabox/example-functions.php:216
+#: framework/metabox/example-functions.php:230
+#: framework/metabox/example-functions.php:243
+#: framework/metabox/example-functions.php:256
+#: framework/metabox/example-functions.php:268
+#: framework/metabox/example-functions.php:277
+#: framework/metabox/example-functions.php:285
+#: framework/metabox/example-functions.php:294
+#: framework/metabox/example-functions.php:301
+#: framework/metabox/example-functions.php:315
+#: framework/metabox/example-functions.php:381
+#: framework/metabox/example-functions.php:475
+#: framework/metabox/example-functions.php:483
+#: framework/metabox/example-functions.php:490
+#: framework/metabox/example-functions.php:497
+#: framework/metabox/example-functions.php:504
+#: framework/metabox/example-functions.php:511
+#: framework/metabox/example-functions.php:518
+#: framework/metabox/example-functions.php:556
+msgid "field description (optional)"
+msgstr ""
+
+#: framework/metabox/example-functions.php:105
+msgid "Test Text Small"
+msgstr ""
+
+#: framework/metabox/example-functions.php:113
+msgid "Test Text Medium"
+msgstr ""
+
+#: framework/metabox/example-functions.php:121
+msgid "Website URL"
+msgstr ""
+
+#: framework/metabox/example-functions.php:130
+msgid "Test Text Email"
+msgstr ""
+
+#: framework/metabox/example-functions.php:138
+msgid "Test Time"
+msgstr ""
+
+#: framework/metabox/example-functions.php:145
+#: framework/metabox/example-functions.php:146
+msgid "Time zone"
+msgstr ""
+
+#: framework/metabox/example-functions.php:152
+msgid "Test Date Picker"
+msgstr ""
+
+#: framework/metabox/example-functions.php:159
+msgid "Test Date Picker (UNIX timestamp)"
+msgstr ""
+
+#: framework/metabox/example-functions.php:167
+msgid "Test Date/Time Picker Combo (UNIX timestamp)"
+msgstr ""
+
+#: framework/metabox/example-functions.php:184
+msgid "Test Money"
+msgstr ""
+
+#: framework/metabox/example-functions.php:193
+msgid "Test Color Picker"
+msgstr ""
+
+#: framework/metabox/example-functions.php:201
+msgid "Test Text Area"
+msgstr ""
+
+#: framework/metabox/example-functions.php:208
+msgid "Test Text Area Small"
+msgstr ""
+
+#: framework/metabox/example-functions.php:215
+msgid "Test Text Area for Code"
+msgstr ""
+
+#: framework/metabox/example-functions.php:222
+msgid "Test Title Weeeee"
+msgstr ""
+
+#: framework/metabox/example-functions.php:223
+msgid "This is a title description"
+msgstr ""
+
+#: framework/metabox/example-functions.php:229
+msgid "Test Select"
+msgstr ""
+
+#: framework/metabox/example-functions.php:235
+#: framework/metabox/example-functions.php:248
+#: framework/metabox/example-functions.php:260
+msgid "Option One"
+msgstr ""
+
+#: framework/metabox/example-functions.php:236
+#: framework/metabox/example-functions.php:249
+#: framework/metabox/example-functions.php:261
+msgid "Option Two"
+msgstr ""
+
+#: framework/metabox/example-functions.php:237
+#: framework/metabox/example-functions.php:250
+#: framework/metabox/example-functions.php:262
+msgid "Option Three"
+msgstr ""
+
+#: framework/metabox/example-functions.php:242
+msgid "Test Radio inline"
+msgstr ""
+
+#: framework/metabox/example-functions.php:255
+msgid "Test Radio"
+msgstr ""
+
+#: framework/metabox/example-functions.php:267
+msgid "Test Taxonomy Radio"
+msgstr ""
+
+#: framework/metabox/example-functions.php:276
+msgid "Test Taxonomy Select"
+msgstr ""
+
+#: framework/metabox/example-functions.php:284
+msgid "Test Taxonomy Multi Checkbox"
+msgstr ""
+
+#: framework/metabox/example-functions.php:293
+msgid "Test Checkbox"
+msgstr ""
+
+#: framework/metabox/example-functions.php:300
+msgid "Test Multi Checkbox"
+msgstr ""
+
+#: framework/metabox/example-functions.php:306
+msgid "Check One"
+msgstr ""
+
+#: framework/metabox/example-functions.php:307
+msgid "Check Two"
+msgstr ""
+
+#: framework/metabox/example-functions.php:308
+msgid "Check Three"
+msgstr ""
+
+#: framework/metabox/example-functions.php:314
+msgid "Test wysiwyg"
+msgstr ""
+
+#: framework/metabox/example-functions.php:322
+msgid "Test Image"
+msgstr ""
+
+#: framework/metabox/example-functions.php:323
+msgid "Upload an image or enter a URL."
+msgstr ""
+
+#: framework/metabox/example-functions.php:329
+msgid "Multiple Files"
+msgstr ""
+
+#: framework/metabox/example-functions.php:330
+msgid "Upload or add multiple images/attachments."
+msgstr ""
+
+#: framework/metabox/example-functions.php:337
+msgid "oEmbed"
+msgstr ""
+
+#: framework/metabox/example-functions.php:338
+msgid ""
+"Enter a youtube, twitter, or instagram URL. Supports services listed at <a "
+"href=\"http://codex.wordpress.org/Embeds\">http://codex.wordpress.org/"
+"Embeds</a>."
+msgstr ""
+
+#: framework/metabox/example-functions.php:371
+msgid "About Page Metabox"
+msgstr ""
+
+#: framework/metabox/example-functions.php:402
+msgid "Repeating Field Group"
+msgstr ""
+
+#: framework/metabox/example-functions.php:410
+msgid "Generates reusable form entries"
+msgstr ""
+
+#: framework/metabox/example-functions.php:412
+msgid "Entry {#}"
+msgstr ""
+
+#: framework/metabox/example-functions.php:413
+msgid "Add Another Entry"
+msgstr ""
+
+#: framework/metabox/example-functions.php:414
+msgid "Remove Entry"
+msgstr ""
+
+#: framework/metabox/example-functions.php:426
+msgid "Entry Title"
+msgstr ""
+
+#: framework/metabox/example-functions.php:434
+msgid "Write a short description for this entry"
+msgstr ""
+
+#: framework/metabox/example-functions.php:440
+msgid "Entry Image"
+msgstr ""
+
+#: framework/metabox/example-functions.php:446
+msgid "Image Caption"
+msgstr ""
+
+#: framework/metabox/example-functions.php:467
+msgid "User Profile Metabox"
+msgstr ""
+
+#: framework/metabox/example-functions.php:474
+msgid "Extra Info"
+msgstr ""
+
+#: framework/metabox/example-functions.php:482
+msgid "Avatar"
+msgstr ""
+
+#: framework/metabox/example-functions.php:489
+msgid "Facebook URL"
+msgstr ""
+
+#: framework/metabox/example-functions.php:496
+msgid "Twitter URL"
+msgstr ""
+
+#: framework/metabox/example-functions.php:503
+msgid "Google+ URL"
+msgstr ""
+
+#: framework/metabox/example-functions.php:510
+msgid "Linkedin URL"
+msgstr ""
+
+#: framework/metabox/example-functions.php:517
+msgid "User Field"
+msgstr ""
+
+#: framework/metabox/example-functions.php:540
+msgid "Theme Options Metabox"
+msgstr ""
+
+#: framework/metabox/example-functions.php:555
+msgid "Site Background Color"
+msgstr ""
+
+#: framework/metabox/includes/CMB2.php:120
+msgid "Metabox configuration is required to have an ID parameter"
+msgstr ""
+
+#: framework/metabox/includes/CMB2.php:326
+msgid "Click to toggle"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_Ajax.php:40
+msgid "Please Try Again"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_Ajax.php:135
+msgid "Remove Embed"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_Ajax.php:139
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_Field.php:910
+msgid "Add Group"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_Field.php:911
+msgid "Remove Group"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_Field.php:933
+#: framework/metabox/includes/CMB2_Field.php:937
+msgid "None"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_JS.php:86
+#: framework/metabox/includes/CMB2_JS.php:119
+msgid "Clear"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_JS.php:87
+msgid "Default"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_JS.php:88
+msgid "Select Color"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_JS.php:89
+msgid "Current Color"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_JS.php:109
+msgid "mm/dd/yy"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_JS.php:110
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_JS.php:111
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_JS.php:112
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_JS.php:113
+msgid ""
+"January, February, March, April, May, June, July, August, September, "
+"October, November, December"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_JS.php:114
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_JS.php:115
+msgid "Next"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_JS.php:116
+msgid "Prev"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_JS.php:117
+msgid "Today"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_JS.php:118
+#: framework/metabox/includes/CMB2_JS.php:128
+msgid "Done"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_JS.php:122
+msgid "Choose Time"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_JS.php:123
+msgid "Time"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_JS.php:124
+msgid "Hour"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_JS.php:125
+msgid "Minute"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_JS.php:126
+msgid "Second"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_JS.php:127
+msgid "Now"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_JS.php:129
+msgid "hh:mm TT"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_JS.php:135
+msgid "Use this file"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_JS.php:136
+msgid "Use these files"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_JS.php:137
+#: framework/metabox/includes/CMB2_Types.php:990
+msgid "Remove Image"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_JS.php:138
+#: framework/metabox/includes/CMB2_Types.php:357
+#: framework/metabox/includes/CMB2_Types.php:1009
+msgid "Remove"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_JS.php:139
+#: framework/metabox/includes/CMB2_Types.php:1004
+msgid "File:"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_JS.php:140
+#: framework/metabox/includes/CMB2_Types.php:1007
+msgid "Download"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_JS.php:141
+msgid "Select / Deselect All"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_Types.php:298
+msgid "Add Row"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_Types.php:735
+#: framework/metabox/includes/CMB2_Types.php:783
+msgid "No terms"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_Types.php:850
+msgid "Add or Upload Files"
+msgstr ""
+
+#: framework/metabox/includes/CMB2_Types.php:912
+msgid "Add or Upload File"
+msgstr ""
+
+#: framework/metabox/includes/helper-functions.php:249
+msgid "Save"
+msgstr ""
+
+#: header.php:62
+msgid "Toggle navigation"
+msgstr ""
+
+#: page.php:49 templates/blog_template.php:84
+msgid "Sorry, no pages matched your criteria."
+msgstr ""
+
+#: search.php:20
+msgid "Search Result"
+msgstr ""
+
+#: search.php:47
+#, php-format
+msgid "Search Results for: <span>%s</span>"
+msgstr ""
+
+#: templates/blog_template.php:68
+msgid "<i class=\"fa fa-chevron-right\"></i>"
+msgstr ""
+
+#: templates/blog_template.php:69
+msgid "<i class=\"fa fa-chevron-left\"></i>"
+msgstr ""
+
+#: templates/blog_template.php:75
+msgid "<ul class=\"pagination\">"
+msgstr ""
+
+#: templates/blog_template.php:77
+msgid "<li>"
+msgstr ""
+
+#: templates/blog_template.php:77
+msgid "</li>"
+msgstr ""
+
+#: templates/blog_template.php:79
+msgid "</ul>"
+msgstr ""
